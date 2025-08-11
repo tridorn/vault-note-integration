@@ -1,0 +1,116 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "ST00 System": {
+      "icon": "lucide-text-search",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST10 Capture": {
+      "icon": "lucide-inbox",
+      "color": "red",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST20 Triage": {
+      "icon": "lucide-split",
+      "color": "orange",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST30 Develop": {
+      "icon": "lucide-cooking-pot",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ],
+      "color": "yellow"
+    },
+    "ST40 Plan": {
+      "icon": "lucide-shield-question",
+      "color": "green",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST50 Work": {
+      "icon": "lucide-workflow",
+      "color": "cyan",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST60 Deliver": {
+      "icon": "lucide-file-output",
+      "color": "blue",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST70 Learn": {
+      "icon": "lucide-message-circle-warning",
+      "color": "purple",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST80 Library": {
+      "icon": "lucide-folders",
+      "color": "pink",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    },
+    "ST90 Archive": {
+      "icon": "lucide-folder-open-dot",
+      "unsynced": [
+        "635c39519afef516",
+        "a5c99453f277ffcf"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

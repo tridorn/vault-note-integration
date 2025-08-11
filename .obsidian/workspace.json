@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "ad17b52e1b91cff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "467a932b104060f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0dd93e1120d075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ST00 System/CO10 Templates/20250720165901-template-core.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250720165901-template-core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a017a4afaa841665",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3f49d3be792df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dbe633afc2c09f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40b61c4d0f01f2a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3142f21127f1154a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6daf0f2b078109fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "right": {
+    "id": "c8408f25cdfa1d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec7fd955cf6a763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e812f89b1379dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7f2d2d0b5086ab66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1ed7ed8e8139a2fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c65c9588afcad589",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "2fc666741a1c1fbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7481fafb66eece8b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a50d03dda8015354",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5a701f44f4dc73b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00 System/SY 01 Templates/SY2TE 01 Blocks/20250730082217-flow.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 20250730082217-flow"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "omnisearch:Omnisearch": false,
+      "iconic:Open rulebook": false
+    }
+  },
+  "active": "ec0dd93e1120d075",
+  "lastOpenFiles": [
+    "ST00 System/CO10 Templates/20250720200138-block-ops.md",
+    "ST00 System/CO10 Templates/20250720195726-block-metrics.md",
+    "ST00 System/CO10 Templates/20250720195504-block-govern.md",
+    "ST00 System/CO10 Templates/20250720195059-block-source.md",
+    "ST00 System/CO10 Templates/20250720193121-block-links.md",
+    "ST00 System/CO10 Templates/20250720194852-block-content.md",
+    "ST00 System/CO10 Templates/20250720192731-block-taxonomy.md",
+    "ST00 System/CO10 Templates/20250720192320-block-flow.md",
+    "ST00 System/CO10 Templates/20250720165901-template-core.md",
+    "ST10 Capture/CO10 Notes",
+    "ST00 System/CO10 Templates/SYTE 01 Metadata",
+    "ST90 Archive",
+    "ST80 Library",
+    "ST70 Learn",
+    "ST60 Deliver",
+    "ST50 Work",
+    "ST40 Plan",
+    "ST30 Develop",
+    "ST20 Triage",
+    "Untitled.md",
+    "00 System/SY 01 Templates/20250730082344-core-template.md",
+    "00 System/SY 01 Templates/SY2TE 01 Blocks/20250730082217-flow.md",
+    "01 Capture/20250721200439.md",
+    "01 Capture/20250726183901.md",
+    "01 Capture/20250726190233.md",
+    "00 System/SY 01 Templates/20250720165901-template-capture.md",
+    "00 System/SY 01 Templates/20250720192320-metadata-lifecycle.md",
+    "01 Capture/20250726064441.md",
+    "01 Capture/20250726064507.md",
+    "01 Capture/20250726064602.md",
+    "01 Capture/20250726064541.md",
+    "01 Capture/20250726064341.md",
+    "00 System/SY 01 Templates/20250720192731-metadata-classification.md",
+    "Untitled Kanban.md",
+    "00 System/SY 01 Templates/20250720193121-metadata-relationships.md"
+  ]
+}
