@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/1 To Process.md",
+                "file": "1 To Process/20250402T155851.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 To Process"
+              "title": "20250402T155851"
             }
           }
         ]
@@ -82,16 +82,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "6daf0f2b078109fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -253,41 +243,41 @@
   },
   "active": "fc1aa780c8e05b3c",
   "lastOpenFiles": [
-    "6 Scheduled for Deletion/6 Scheduled for Deletion.md",
-    "1 To Process/20250531T103944.md",
-    "1 To Process/20230701T153120.md",
-    "5 Consumed/5 Consumed.md",
-    "4 Consume/4 Consume.md",
-    "3 Processed/3 Processed.md",
-    "1 To Process/1 To Process.md",
-    "2 Processing/2 Processing.md",
-    "1 To Process/20250815T162059.md",
+    "1 To Process/20241009T021510.md",
+    "1 To Process/20241221T224715.md",
+    "1 To Process/20241212T181214.md",
+    "1 To Process/20241213T132646.md",
+    "1 To Process/20241213T204801.md",
+    "1 To Process/20241214T041152.md",
+    "1 To Process/20241214T041312.md",
+    "1 To Process/20241214T151021.md",
+    "1 To Process/20241106T202521.md",
+    "1 To Process/20241024T051546.md",
+    "1 To Process/20241024T050953.md",
+    "1 To Process/20241009T022429.md",
+    "1 To Process/20241009T021430.md",
+    "1 To Process/20250611T162151.md",
+    "1 To Process/20250611T161104.md",
+    "1 To Process/20250611T160909.md",
+    "1 To Process/20250611T160902.md",
+    "1 To Process/20250611T154530.md",
+    "1 To Process/20250611T154522.md",
+    "1 To Process/20250611T154514.md",
+    "2 Processing/20250130T010115.md",
+    "2 Processing/20250130T030617.md",
+    "1 To Process/20250130T051506.md",
+    "1 To Process/20250130T052137.md",
+    "1 To Process/20250130T063013.md",
+    "1 To Process/20250130T063022.md",
     "5 Consumed",
-    "4 Consume",
+    "4 Consuming",
     "3 Processed",
     "2 Processing",
     "1 To Process",
     "6 Scheduled for Deletion",
-    "1 To Process/20250815T163213.md",
-    "1 To Process/20250815T162447.md",
-    "1 To Process/20250812T003453.md",
-    "ST00 System/CO10 Templates/20250720200138-block-ops.md",
-    "ST00 System/CO10 Templates/20250720195726-block-metrics.md",
-    "ST00 System/CO10 Templates/20250720195504-block-govern.md",
-    "ST00 System/CO10 Templates/20250720195059-block-source.md",
-    "ST00 System/CO10 Templates/20250720193121-block-links.md",
-    "ST00 System/CO10 Templates/20250720194852-block-content.md",
-    "ST00 System/CO10 Templates/20250720192731-block-taxonomy.md",
-    "ST00 System/CO10 Templates/20250720192320-block-flow.md",
-    "ST00 System/CO10 Templates/20250720165901-template-core.md",
     "ST10 Capture/CO10 Notes",
     "ST00 System/CO10 Templates/SYTE 01 Metadata",
     "ST90 Archive",
-    "ST80 Library",
-    "00 System/SY 01 Templates/20250730082344-core-template.md",
-    "00 System/SY 01 Templates/SY2TE 01 Blocks/20250730082217-flow.md",
-    "01 Capture/20250721200439.md",
-    "01 Capture/20250726183901.md",
-    "01 Capture/20250726190233.md"
+    "ST80 Library"
   ]
 }

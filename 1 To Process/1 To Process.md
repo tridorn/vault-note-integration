@@ -1,3 +1,1 @@
-# To Process
-
-- Files in this stage are completely untouched.
+- Files in this stage are completely untouched

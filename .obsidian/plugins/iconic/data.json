@@ -32,7 +32,8 @@
       "icon": "lucide-text-search",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST10 Capture": {
@@ -40,7 +41,8 @@
       "color": "red",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST20 Triage": {
@@ -48,14 +50,16 @@
       "color": "orange",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST30 Develop": {
       "icon": "lucide-cooking-pot",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ],
       "color": "yellow"
     },
@@ -64,7 +68,8 @@
       "color": "green",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST50 Work": {
@@ -72,7 +77,8 @@
       "color": "cyan",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST60 Deliver": {
@@ -80,7 +86,8 @@
       "color": "blue",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST70 Learn": {
@@ -88,7 +95,8 @@
       "color": "purple",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST80 Library": {
@@ -96,14 +104,16 @@
       "color": "pink",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     },
     "ST90 Archive": {
       "icon": "lucide-folder-open-dot",
       "unsynced": [
         "635c39519afef516",
-        "a5c99453f277ffcf"
+        "a5c99453f277ffcf",
+        "cd0e7dbe7f5d7fa4"
       ]
     }
   },
