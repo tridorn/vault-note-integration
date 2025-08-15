@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec0dd93e1120d075",
+            "id": "fc1aa780c8e05b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250812T003453.md",
+                "file": "1 To Process/1 To Process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250812T003453"
+              "title": "1 To Process"
             }
           }
         ]
@@ -90,12 +90,21 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ecbff65e5d6da6d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,8 +251,26 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4dbe633afc2c09f8",
+  "active": "fc1aa780c8e05b3c",
   "lastOpenFiles": [
+    "6 Scheduled for Deletion/6 Scheduled for Deletion.md",
+    "1 To Process/20250531T103944.md",
+    "1 To Process/20230701T153120.md",
+    "5 Consumed/5 Consumed.md",
+    "4 Consume/4 Consume.md",
+    "3 Processed/3 Processed.md",
+    "1 To Process/1 To Process.md",
+    "2 Processing/2 Processing.md",
+    "1 To Process/20250815T162059.md",
+    "5 Consumed",
+    "4 Consume",
+    "3 Processed",
+    "2 Processing",
+    "1 To Process",
+    "6 Scheduled for Deletion",
+    "1 To Process/20250815T163213.md",
+    "1 To Process/20250815T162447.md",
+    "1 To Process/20250812T003453.md",
     "ST00 System/CO10 Templates/20250720200138-block-ops.md",
     "ST00 System/CO10 Templates/20250720195726-block-metrics.md",
     "ST00 System/CO10 Templates/20250720195504-block-govern.md",
@@ -257,27 +284,10 @@
     "ST00 System/CO10 Templates/SYTE 01 Metadata",
     "ST90 Archive",
     "ST80 Library",
-    "ST70 Learn",
-    "ST60 Deliver",
-    "ST50 Work",
-    "ST40 Plan",
-    "ST30 Develop",
-    "ST20 Triage",
-    "Untitled.md",
     "00 System/SY 01 Templates/20250730082344-core-template.md",
     "00 System/SY 01 Templates/SY2TE 01 Blocks/20250730082217-flow.md",
     "01 Capture/20250721200439.md",
     "01 Capture/20250726183901.md",
-    "01 Capture/20250726190233.md",
-    "00 System/SY 01 Templates/20250720165901-template-capture.md",
-    "00 System/SY 01 Templates/20250720192320-metadata-lifecycle.md",
-    "01 Capture/20250726064441.md",
-    "01 Capture/20250726064507.md",
-    "01 Capture/20250726064602.md",
-    "01 Capture/20250726064541.md",
-    "01 Capture/20250726064341.md",
-    "00 System/SY 01 Templates/20250720192731-metadata-classification.md",
-    "Untitled Kanban.md",
-    "00 System/SY 01 Templates/20250720193121-metadata-relationships.md"
+    "01 Capture/20250726190233.md"
   ]
 }

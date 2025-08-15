@@ -1,0 +1,4 @@
+# Consumed
+
+- Files in this stage have been stripped of anything valuable
+- This stage represents a temporary holding or gathering area for related notes, until they are passed further down the chain

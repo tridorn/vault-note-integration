@@ -1,0 +1,4 @@
+# Processing
+
+- Files in this stage are actively being worked on.
+- Primary aim is to reduce the length of the file.

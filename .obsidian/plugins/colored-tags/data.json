@@ -171,7 +171,24 @@
     "tf/month": 2,
     "tf/week": 3,
     "tool": 69,
-    "format": 70
+    "format": 70,
+    "entrepreneurship": 71,
+    "prototyping": 72,
+    "mvp": 73,
+    "product": 74,
+    "analytics": 75,
+    "validate": 76,
+    "scale": 77,
+    "chapter": 78,
+    "chapter/3": 1,
+    "book": 79,
+    "article": 80,
+    "podcast": 81,
+    "sales": 82,
+    "ux": 83,
+    "raw": 84,
+    "distilled": 85,
+    "tested": 86
   },
   "_version": 3
 }
