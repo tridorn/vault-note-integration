@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST00 System/CO10 Templates/20250720165901-template-core.md",
+                "file": "20250812T003453.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250720165901-template-core"
+              "title": "20250812T003453"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "ec0dd93e1120d075",
+  "active": "4dbe633afc2c09f8",
   "lastOpenFiles": [
     "ST00 System/CO10 Templates/20250720200138-block-ops.md",
     "ST00 System/CO10 Templates/20250720195726-block-metrics.md",
