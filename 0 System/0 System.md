@@ -1,0 +1,2 @@
+- System is the place for administrative files
+- Primarily scripts and templates sit in here

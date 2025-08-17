@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00 System/SY 01 Templates",
+  "templates_folder": "0 System/Templates",
   "templates_pairs": [
     [
       "",
@@ -11,14 +11,9 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "00 System/SY 02 Scripts",
-  "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "",
-      "template": ""
-    }
-  ],
+  "user_scripts_folder": "0 System/Scripts",
+  "enable_folder_templates": false,
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -29,7 +24,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "0 System/Templates/Start of Important.md",
+    "0 System/Templates/End of Important.md",
+    "0 System/Templates/Processing Prompt.md"
   ],
   "startup_templates": [
     ""

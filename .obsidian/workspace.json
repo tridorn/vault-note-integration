@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/20250402T155851.md",
+                "file": "2 Processing/20250130T010208.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250402T155851"
+              "title": "20250130T010208"
+            }
+          },
+          {
+            "id": "cba30587b4d868f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Processed/20250814T175448.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250814T175448"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,15 +83,30 @@
             }
           },
           {
+            "id": "1ed7ed8e8139a2fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "40b61c4d0f01f2a2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pr/23/310",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -132,26 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Processed/20250814T175448.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "1ed7ed8e8139a2fa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links from 20250814T175448"
             }
           },
           {
@@ -209,19 +235,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 System/SY 01 Templates/SY2TE 01 Blocks/20250730082217-flow.md"
+                "file": "2 Processing/20250130T010200.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250730082217-flow"
+              "title": "File properties for 20250130T010200"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,43 +266,43 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "fc1aa780c8e05b3c",
+  "active": "4dbe633afc2c09f8",
   "lastOpenFiles": [
-    "1 To Process/20241009T021510.md",
-    "1 To Process/20241221T224715.md",
-    "1 To Process/20241212T181214.md",
-    "1 To Process/20241213T132646.md",
-    "1 To Process/20241213T204801.md",
-    "1 To Process/20241214T041152.md",
-    "1 To Process/20241214T041312.md",
-    "1 To Process/20241214T151021.md",
-    "1 To Process/20241106T202521.md",
-    "1 To Process/20241024T051546.md",
-    "1 To Process/20241024T050953.md",
-    "1 To Process/20241009T022429.md",
-    "1 To Process/20241009T021430.md",
-    "1 To Process/20250611T162151.md",
-    "1 To Process/20250611T161104.md",
-    "1 To Process/20250611T160909.md",
-    "1 To Process/20250611T160902.md",
-    "1 To Process/20250611T154530.md",
-    "1 To Process/20250611T154522.md",
-    "1 To Process/20250611T154514.md",
-    "2 Processing/20250130T010115.md",
-    "2 Processing/20250130T030617.md",
-    "1 To Process/20250130T051506.md",
-    "1 To Process/20250130T052137.md",
-    "1 To Process/20250130T063013.md",
-    "1 To Process/20250130T063022.md",
+    "3 Processed/20250814T183753.md",
+    "3 Processed/20250814T184255.md",
+    "3 Processed/20250814T184936.md",
+    "3 Processed/20250814T175448.md",
+    "3 Processed/20250814T165045.md",
+    "3 Processed/20250814T164844.md",
+    "3 Processed/20250814T164556.md",
+    "0 System/Templates/Consuming Prompt.md",
+    "0 System/0 System.md",
+    "3 Processed/20250814T164401.md",
+    "3 Processed/20250814T163517.md",
+    "3 Processed/20250814T154846.md",
+    "3 Processed/20250812T143959.md",
+    "3 Processed/20250812T135826.md",
+    "3 Processed/20250812T134855.md",
+    "3 Processed/20250812T134842.md",
+    "3 Processed/20250812T133515.md",
+    "3 Processed/20250812T130928.md",
+    "3 Processed/20250812T130321.md",
+    "3 Processed/20250812T130212.md",
+    "3 Processed/20250812T003203.md",
+    "1 To Process/20250812T003314.md",
+    "3 Processed/20250812T003123.md",
+    "3 Processed/20250812T003116.md",
+    "3 Processed/20250726T020053.md",
+    "3 Processed/20250812T003107.md",
+    "1 To Process/Stoicism",
+    "1 To Process/Adaptive Command Matrix",
+    "1 To Process/Dynasty",
+    "3 Processed/Note-Taking",
+    "0 System/Templates",
+    "0 System/Scripts",
     "5 Consumed",
     "4 Consuming",
     "3 Processed",
-    "2 Processing",
-    "1 To Process",
-    "6 Scheduled for Deletion",
-    "ST10 Capture/CO10 Notes",
-    "ST00 System/CO10 Templates/SYTE 01 Metadata",
-    "ST90 Archive",
-    "ST80 Library"
+    "2 Processing"
   ]
 }

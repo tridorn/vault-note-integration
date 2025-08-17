@@ -2,5 +2,6 @@
   "showRibbon": false,
   "showViewHeader": true,
   "baseFontSize": 13,
-  "cssTheme": "Minimal"
+  "cssTheme": "Typewriter",
+  "accentColor": "#4ccf4a"
 }

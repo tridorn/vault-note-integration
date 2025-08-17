@@ -134,5 +134,50 @@
       ],
       "key": "O"
     }
+  ],
+  "templater-obsidian:0 System/Templates/Prompt Template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "templater-obsidian:0 System/Templates/Important Call-Out Box.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:0 System/Templates/Start of Important.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:0 System/Templates/End of Important.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:0 System/Templates/Processing Prompt.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }
