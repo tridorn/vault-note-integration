@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc1aa780c8e05b3c",
+            "id": "54deba9bb3a08cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Processing/20250130T010208.md",
+                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250130T010208"
-            }
-          },
-          {
-            "id": "cba30587b4d868f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Processed/20250814T175448.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250814T175448"
+              "title": "20250208T044344"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,27 +58,12 @@
             }
           },
           {
-            "id": "1ed7ed8e8139a2fa",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "40b61c4d0f01f2a2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pr/23/310",
+                "query": "tag:#pr/25/087",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +85,7 @@
             }
           },
           {
-            "id": "ecbff65e5d6da6d4",
+            "id": "30cb0cb101771042",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -138,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 489.5
   },
   "right": {
     "id": "c8408f25cdfa1d84",
@@ -172,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Processed/20250814T175448.md",
+                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20250814T175448"
+              "title": "Outgoing links from 20250208T044344"
             }
           },
           {
@@ -186,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 20250208T044344"
             }
           },
           {
@@ -210,43 +170,38 @@
             }
           },
           {
-            "id": "7481fafb66eece8b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a50d03dda8015354",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "5a701f44f4dc73b3",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2 Processing/20250130T010200.md"
+                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250130T010200"
+              "title": "File properties for 20250208T044344"
+            }
+          },
+          {
+            "id": "1ed7ed8e8139a2fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,41 +223,41 @@
   },
   "active": "4dbe633afc2c09f8",
   "lastOpenFiles": [
-    "1 To Process/20250817T174608.md",
-    "1 To Process/20250817T020505.md",
-    "1 To Process/20250817T020205.md",
-    "1 To Process/20250817T015938.md",
-    "1 To Process/20250817T000233.md",
-    "1 To Process/20250816T235904.md",
-    "1 To Process/20250816T234610.md",
-    "1 To Process/20250816T234431.md",
-    "1 To Process/20250816T234323.md",
-    "1 To Process/20250816T233905.md",
-    "1 To Process/20250816T233710.md",
-    "1 To Process/20250816T233605.md",
-    "1 To Process/20250816T233255.md",
-    "1 To Process/20250816T232936.md",
-    "1 To Process/20250816T232814.md",
-    "1 To Process/20250816T232109.md",
-    "1 To Process/20250816T232103.md",
-    "1 To Process/20250816T231755.md",
-    "1 To Process/20250816T231200.md",
-    "1 To Process/20250816T230952.md",
-    "1 To Process/20250816T210929.md",
-    "1 To Process/20250816T205102.md",
-    "1 To Process/20250816T205037.md",
-    "1 To Process/20250816T204542.md",
-    "1 To Process/20250816T202428.md",
-    "1 To Process/20250816T193611.md",
-    "1 To Process/System/createUUID.js",
-    "1 To Process/System",
-    "1 To Process/Stoicism",
-    "1 To Process/Adaptive Command Matrix",
-    "1 To Process/Dynasty",
-    "3 Processed/Note-Taking",
-    "0 System/Templates",
-    "0 System/Scripts",
-    "5 Consumed",
-    "4 Consuming"
+    "1 To Process/Organisation/Physical Environment/20241221T223936.md",
+    "1 To Process/Organisation/Productivity Environment/20241213T204801.md",
+    "1 To Process/Organisation/Productivity Environment/20240805T123805.md",
+    "1 To Process/Organisation/Physical Environment/20241221T224004.md",
+    "1 To Process/Organisation/Physical Environment",
+    "1 To Process/Organisation/Physical Environment/20250208T044329.md",
+    "1 To Process/Organisation/Categorisation/20250128T042217.md",
+    "1 To Process/Organisation/Categorisation/20250128T042321.md",
+    "1 To Process/Organisation/Categorisation",
+    "1 To Process/20241217T110511.md",
+    "1 To Process/20241215T225332.md",
+    "1 To Process/20241215T225658.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T160015.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T155454.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T154912.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T154901.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T154851.md",
+    "1 To Process/Organisation/Physical Environment/20250208T044344.md",
+    "1 To Process/Organisation/Physical Environment/20250208T044324.md",
+    "1 To Process/Organisation/Physical Environment/20241221T224017.md",
+    "1 To Process/Organisation/Physical Environment/20241221T223949.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T140521.md",
+    "1 To Process/Organisation/Productivity Environment/20241215T140457.md",
+    "1 To Process/Organisation/Productivity Environment/20241206T175246.md",
+    "1 To Process/Organisation/Productivity Environment/20240805T123955.md",
+    "1 To Process/1 To Process.md",
+    "1 To Process/External",
+    "1 To Process/Thinking",
+    "1 To Process/Personas/Ben Jendyk/20250608T212242.md",
+    "1 To Process/Personas/Ben Jendyk/20250121T052515.md",
+    "1 To Process/Misc",
+    "1 To Process/Fields",
+    "1 To Process/Personal",
+    "1 To Process/Initiatives",
+    "1 To Process/Organisation",
+    "1 To Process/Personas"
   ]
 }

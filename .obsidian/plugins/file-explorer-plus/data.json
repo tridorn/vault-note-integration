@@ -4,10 +4,10 @@
     "active": true,
     "tags": [
       {
-        "name": "",
+        "name": "current",
         "active": true,
-        "pattern": "",
-        "patternType": "STRICT"
+        "pattern": "pr/24/349",
+        "patternType": "WILDCARD"
       }
     ],
     "paths": [
