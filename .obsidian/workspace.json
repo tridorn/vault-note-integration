@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/20250109T032937.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250109T032937"
+              "title": "README"
             }
           }
         ]
@@ -221,8 +221,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4dbe633afc2c09f8",
+  "active": "372659703a524ed4",
   "lastOpenFiles": [
+    "1 To Process/1 To Process.md",
+    "README.md",
+    "6 Scheduled for Deletion/20241214T230941.md",
+    "1 To Process/20250109T032937.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 6 Success Stories/241120-140636.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 6 Success Stories/2024-09-03-20-34-01.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 6 Inspiration References/20250129T230327.md",
@@ -248,10 +252,6 @@
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20241229T215823.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20241227T170238.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20241217T151635.md",
-    "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20241127T053752.md",
-    "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20241014T055441.md",
-    "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20240922T031306.md",
-    "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 4 Quotes & Anecdotes/20240914T041407.md",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 3 Creative Writing/RE3CW 5 Articles",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 3 Creative Writing/RE3CW 4 Environments",
     "vault-benarium (Copy)/3 Resources/RE 7 Inspiration/RE2IN 3 Creative Writing/RE3CW 3 Character Profiles",
