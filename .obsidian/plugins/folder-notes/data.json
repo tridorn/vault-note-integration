@@ -60,7 +60,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "path",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -76,7 +76,7 @@
   "excludeFolderDefaultSettings": {
     "type": "folder",
     "path": "",
-    "id": "c4fcae49-32ac-4ede-8095-a9eb9c6ca9cb",
+    "id": "0a49554c-c344-41fe-9928-3529b84a77b1",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -92,7 +92,7 @@
   "excludePatternDefaultSettings": {
     "type": "pattern",
     "path": "",
-    "id": "3fee4f04-2c78-4c97-95fd-f5e3f20198d4",
+    "id": "66437303-7a90-48c8-92b2-3b3ce0475fcc",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,

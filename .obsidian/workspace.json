@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "467a932b104060f0",
+        "id": "c77cd4521980b46a",
         "type": "tabs",
         "children": [
           {
-            "id": "54deba9bb3a08cb2",
+            "id": "372659703a524ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
+                "file": "1 To Process/20250109T032937.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250208T044344"
+              "title": "20250109T032937"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
+                "file": "1 To Process/Personas/Tristan Dornhelm/20250108T184652.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20250208T044344"
+              "title": "Outgoing links from 20250108T184652"
             }
           },
           {
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md",
+                "file": "1 To Process/Personas/Tristan Dornhelm/20250108T184652.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250208T044344"
+              "title": "Outline of 20250108T184652"
             }
           },
           {
@@ -175,10 +175,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 To Process/Organisation/Physical Environment/20250208T044344.md"
+                "file": "1 To Process/Personas/Tristan Dornhelm/20250108T184652.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250208T044344"
+              "title": "File properties for 20250108T184652"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,47 +218,46 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false,
       "iconic:Open rulebook": false
     }
   },
-  "active": "4dbe633afc2c09f8",
+  "active": "372659703a524ed4",
   "lastOpenFiles": [
-    "1 To Process/Organisation/Physical Environment/20241221T223936.md",
-    "1 To Process/Organisation/Productivity Environment/20241213T204801.md",
-    "1 To Process/Organisation/Productivity Environment/20240805T123805.md",
-    "1 To Process/Organisation/Physical Environment/20241221T224004.md",
+    "1 To Process/20250817T020505.md",
+    "1 To Process/20250109T032937.md",
+    "1 To Process/Personal/Principles/20250108T053440.md",
+    "1 To Process/Initiatives/Dornhelm/20250108T025740.md",
+    "1 To Process/Initiatives/Dornhelm/20250108T024801.md",
+    "1 To Process/Personal/Principles/20250108T020345.md",
+    "1 To Process/Personal/Principles/20250108T014759.md",
+    "1 To Process/Personal/Principles/20250108T014351.md",
+    "1 To Process/Personas/Aion/20250107T055934.md",
+    "1 To Process/Personas/Aion/20250106T004612.md",
+    "1 To Process/Personas/Aion/20250105T202149.md",
+    "1 To Process/Personal/Principles/20250104T035423.md",
+    "1 To Process/20250120T044707.md",
+    "1 To Process/20250119T204754.md",
+    "1 To Process/20250120T044722.md",
+    "1 To Process/Organisation/Categorisation/20250103T030305.md",
+    "1 To Process/Misc/TODOs/20250103T112401.md",
+    "1 To Process/Personas/Aion/20250101T010520.md",
+    "1 To Process/Personal/Principles/20241230T104914.md",
+    "1 To Process/Organisation/Action Management/20241230T104058.md",
+    "1 To Process/Organisation/Action Management/20241229T175829.md",
+    "1 To Process/Fields/Rhethorics/20241228T103821.md",
+    "1 To Process/Personal/Principles/20241227T225353.md",
+    "1 To Process/Personal/Principles/20241227T232431.md",
+    "1 To Process/Fields/Rhethorics",
+    "1 To Process/Misc/TODOs/20241228T165059.md",
+    "1 To Process/Fields/Organisational Systems/20241227T004346.md",
+    "1 To Process/Personal/Writing",
+    "1 To Process/Personal/Journaling",
     "1 To Process/Organisation/Physical Environment",
-    "1 To Process/Organisation/Physical Environment/20250208T044329.md",
-    "1 To Process/Organisation/Categorisation/20250128T042217.md",
-    "1 To Process/Organisation/Categorisation/20250128T042321.md",
     "1 To Process/Organisation/Categorisation",
-    "1 To Process/20241217T110511.md",
-    "1 To Process/20241215T225332.md",
-    "1 To Process/20241215T225658.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T160015.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T155454.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T154912.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T154901.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T154851.md",
-    "1 To Process/Organisation/Physical Environment/20250208T044344.md",
-    "1 To Process/Organisation/Physical Environment/20250208T044324.md",
-    "1 To Process/Organisation/Physical Environment/20241221T224017.md",
-    "1 To Process/Organisation/Physical Environment/20241221T223949.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T140521.md",
-    "1 To Process/Organisation/Productivity Environment/20241215T140457.md",
-    "1 To Process/Organisation/Productivity Environment/20241206T175246.md",
-    "1 To Process/Organisation/Productivity Environment/20240805T123955.md",
-    "1 To Process/1 To Process.md",
     "1 To Process/External",
     "1 To Process/Thinking",
-    "1 To Process/Personas/Ben Jendyk/20250608T212242.md",
-    "1 To Process/Personas/Ben Jendyk/20250121T052515.md",
     "1 To Process/Misc",
     "1 To Process/Fields",
-    "1 To Process/Personal",
-    "1 To Process/Initiatives",
-    "1 To Process/Organisation",
-    "1 To Process/Personas"
+    "1 To Process/Personal"
   ]
 }
