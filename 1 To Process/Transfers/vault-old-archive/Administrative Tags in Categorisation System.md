@@ -1,0 +1,71 @@
+---
+author: Ben Jendyk
+created: 2023-10-18 18:02
+archived: 2024-02-19 16:41
+last-modified: 2024-02-19 16:41
+tags: [access/archived]
+next-version: [[2024-02-19-16-38-59|Administrative Tags]]
+---
+
+# Administrative Tags in Categorisation System
+
+> [!note]  
+> The explanation of the tags was written in the context of [[Obsidian]], the tags however are designed to function platform independent.
+
+## Tag Group
+
+In order to make the administrative tags more distinct from the [[Topic Tags in Categorisation System]], one hierarchical layer is used. Every administrative tag is grouped under the “a” tag (e.g. `#a/rC`, or `#A/uP`). 
+
+## Content Changes
+
+- **`#rC` (Revise Content)**: This tag is a general indicator that the content in the note requires some form of reworking. This can be due to inaccuracies, new insights, or simply because the content doesn't read smoothly.
+
+- **`#eX` (Expand)**: You've identified a section or topic within the note that is too brief. This tag reminds you to provide more detailed information or context on the subject.
+
+- **`#cF` (Clarify)**: The information or idea you've noted down is ambiguous or unclear. When you come back to this note, you need to rewrite or rephrase the section for clarity, ensuring the idea is communicated more effectively.
+
+- **`#uP` (Update)**: The information in the note might be outdated due to new developments, data, or insights. This tag reminds you to update the note with the most recent and relevant information.
+
+## Source And Verification
+
+- **`#aS` (Add Source)**: The content in the note lacks citations or references. This tag prompts you to provide the necessary source or reference to back up the information, adding credibility to your note.
+
+- **`#vF` (Verify)**: The content you've written may be based on memory, hearsay, or a source you're unsure about. This tag is a reminder to verify the accuracy or validity of the information presented before considering it reliable.
+
+## Structural And Formatting Changes
+
+- **`#rS` (Restructure)**: The note might have grown organically, and its current organization is not optimal. This tag indicates that the note's overall structure or flow needs reorganization for better readability and comprehension.
+
+- **`#fM` (Formatting)**: While the content might be sound, the note's appearance needs tweaking. This could be adjusting bullet points, headers, markdown formatting, or any other visual aspect to make the note more aesthetically pleasing and easier to navigate.
+
+## Linking And Integration
+
+- **`#aL` (Add Link)**: One of Obsidian's strengths is its ability to interlink notes, creating a web of related information. This tag suggests that you need to create links from this note to other relevant notes or external sources.
+
+- **`#iG` (Integrate)**: The content of this note needs to be integrated or connected with other notes, a Map of Content (MOC), or perhaps a larger topic. This helps ensure your notes aren't isolated but are part of your larger knowledge base.
+
+## Review And Reflect
+
+- **`#rL` (Review Later)**: This tag sets aside the note for a future in-depth review. Perhaps the content is dense, or you want to see how it resonates after some time has passed.
+
+- **`#rF` (Reflect)**: The content in the note sparks ideas, questions, or deeper thoughts. This tag is a reminder to come back and reflect upon these ideas when you have the time and mental space.
+
+## Time-Sensitive
+
+- **`#tS` (Time-Sensitive)**: This tag is an urgent marker. It denotes that the changes, updates, or actions associated with this note have a time-bound aspect. Whether it's an event, a deadline, or an anticipated update, this tag serves as a reminder that certain actions associated with this note shouldn't be delayed for too long.
+
+## Tips for Implementing This System
+
+1. **Highlight the Specific Section**: When you tag a note with one of the administrative tags, consider highlighting or marking the specific section that needs attention so you can easily locate it later.
+
+2. **Regular Review**: Set up a routine (e.g., weekly, monthly) to filter/search your notes by these administrative tags. This will help you address the tagged sections systematically.
+
+3. **Use a Plugin**: Depending on your familiarity with Obsidian plugins, you might consider using the "Kanban" plugin to create a board for tasks associated with your notes. Each card can represent a note requiring changes, and you can move them across columns as you address the issues.
+
+4. **Keep it Simple**: Start with a few tags that resonate most with your workflow. As you get accustomed to the system, you can refine and expand based on your needs.
+
+## Related Concepts
+
+Same:: [[Topic Tags in Categorisation System]]
+
+Topic tags mark content not on a meta layer but based on its content, to foster searchability and categorise topics.
