@@ -1,0 +1,1 @@
+- **[<% tp.date.now("dddd, DD MMM YYYY, HH:mm:ss") %>]** <% tp.file.cursor() %>

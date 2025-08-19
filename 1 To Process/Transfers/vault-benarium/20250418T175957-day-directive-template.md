@@ -1,0 +1,77 @@
+---
+owner: Ben Jendyk
+id: <% tp.user.createUUID() %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+tags: [tf/tactical/day, access/private, language/en]
+key-words: []
+aliases: []
+title:
+---
+
+# Directive of [[date]]
+
+---
+
+## Pre-Execution
+
+### Intention
+
+<!-- What broader chief aim do you want to focus on today? -->
+-
+
+### Objectives
+
+<!-- Most critical task 1 – outcome-driven, not just an activity. -->
+-
+<!-- Most critical task 2 – make it concrete and measurable. -->
+-
+<!-- Most critical task 3 – must fit within the day’s execution capacity. -->
+-  
+
+### Process
+
+<!-- How will this be executed most efficiently? E.g., deep work session, batching tasks, specific tool usage. -->
+- Task 1:
+- Task 2:
+- Task 3:
+
+### Friction Mitigation
+
+<!-- What are the biggest risks to focus/execution today? E.g., distractions, decision fatigue, overplanning. -->
+-
+
+---
+
+## Execution
+
+### Frictions
+
+<!-- What slowed execution today? E.g., distractions, over-perfection, slow decision-making, unexpected blockers. -->
+-
+
+### Adjustments
+
+<!-- What tweaks were made mid-day to maintain efficiency? Only note direct changes to process. -->
+-
+
+---
+
+## Post-Execution
+
+### Objectives Deviation
+
+<!-- Did execution match expectation? If not, what caused deviation? -->
+- [ ] Task 1:
+- [ ] Task 2:  
+- [ ] Task 3:  
+
+### Optimisation
+
+<!-- What execution inefficiency should be addressed tomorrow? Focus on a single high-leverage improvement. -->
+-
+
+### Process Experiment
+
+<!-- What **one small tweak** will be tested tomorrow to refine execution? Keep it experimental and specific. -->
+-
