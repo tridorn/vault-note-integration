@@ -28,6 +28,9 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "1 To Process/Initiatives/Eupator/20250814T222750.md": {
+      "icon": "lucide-tag"
+    },
     "ST00 System": {
       "icon": "lucide-text-search",
       "unsynced": [

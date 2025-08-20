@@ -29,7 +29,21 @@
       "setFileExistsBehavior": false
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "moveto6",
+      "id": "b73da79b-f6d6-49fb-ad7a-b60f101927b4",
+      "commands": [
+        {
+          "name": "Move current file to another folder",
+          "type": "Obsidian",
+          "id": "bd3ab642-7d15-46a2-9c95-e7aa8f603c11",
+          "commandId": "file-explorer:move-file"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
