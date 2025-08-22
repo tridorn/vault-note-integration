@@ -6,7 +6,7 @@
       {
         "name": "current",
         "active": true,
-        "pattern": "pr/25/087/thefour/*",
+        "pattern": "pr/25/093",
         "patternType": "WILDCARD"
       }
     ],

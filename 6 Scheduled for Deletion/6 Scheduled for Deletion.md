@@ -1,3 +1,5 @@
+# Scheduled for Deletion
+
 - Files in this stage have reached the end of their life span and are about to be removed
 - The last check, before files are moved into the trash
 - This stage is swept every x days
