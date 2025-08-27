@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/Actionables/Useful/20250412T133708.md",
+                "file": "1 To Process/Organisation/Physical Environment/20250208T044339.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250412T133708"
+              "title": "20250208T044339"
             }
           }
         ]
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,43 +221,43 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "be05dad22e21850b",
+  "active": "4dbe633afc2c09f8",
   "lastOpenFiles": [
-    "1 To Process/Organisation/Action Management/20250418T185626.md",
-    "1 To Process/Actionables/Useful/20250412T133708.md",
-    "1 To Process/Fields/Organisational Systems/20250412T173756.md",
-    "1 To Process/Fields/Frameworks/20250412T151624.md",
-    "1 To Process/Organisation/Note-Taking/20250407T170332.md",
-    "1 To Process/Organisation/Note-Taking/20250407T165543.md",
-    "1 To Process/Organisation/Note-Taking/20250407T165456.md",
-    "1 To Process/Organisation/Note-Taking/20250407T165342.md",
-    "1 To Process/Organisation/Note-Taking/20250407T164752.md",
-    "1 To Process/Organisation/Note-Taking/20250407T164651.md",
-    "1 To Process/Organisation/Note-Taking/20250407T164535.md",
-    "1 To Process/Organisation/Note-Taking/20250407T164054.md",
-    "1 To Process/Organisation/Note-Taking/20250407T155150.md",
-    "1 To Process/Fields/Languages/20250407T154721.md",
-    "1 To Process/Skills/Writing/20250407T154057.md",
-    "1 To Process/Skills/Reading/20250407T151710.md",
-    "1 To Process/Actionables/Routines/20250407T142715.md",
-    "6 Scheduled for Deletion/20250407T132514.md",
-    "6 Scheduled for Deletion/20250406T092042.md",
-    "6 Scheduled for Deletion/20250403T112716.md",
-    "6 Scheduled for Deletion/20250329T061726.md",
-    "6 Scheduled for Deletion/20250329T061200.md",
-    "1 To Process/Health/Cooking/20250328T181001.md",
-    "1 To Process/Health/Cooking/20250328T180908.md",
-    "1 To Process/Health/Cooking/20250328T180819.md",
-    "1 To Process/Personal/Reflections/20250328T053107.md",
+    "1 To Process/Organisation/Physical Environment/20250208T044344.md",
+    "1 To Process/Organisation/Physical Environment/20241221T223943.md",
+    "1 To Process/Organisation/Physical Environment/20241221T223949.md",
+    "1 To Process/Organisation/Physical Environment/20241221T223936.md",
+    "1 To Process/Organisation/Physical Environment/20241221T224010.md",
+    "1 To Process/Organisation/Physical Environment/20241221T223928.md",
+    "1 To Process/External/Mannheim/20250308T230745.md",
+    "1 To Process/Actionables/Directives/20250201T022926.md",
+    "1 To Process/Actionables/Ideas/20250622T145332.md",
+    "1 To Process/Actionables/Ideas/20250522T165919.md",
+    "1 To Process/Actionables/Ideas/20250310T005541.md",
+    "1 To Process/Actionables/Ideas/20250130T220646.md",
+    "1 To Process/Actionables/Ideas/20250127T145430.md",
+    "1 To Process/Actionables/Ideas/20241106T202521.md",
+    "1 To Process/Actionables/Ideas/2024-09-25-19-03-54.md",
+    "1 To Process/Actionables/Principles/20240324T110702.md",
+    "1 To Process/Actionables/Principles/20240402T211814.md",
+    "1 To Process/Actionables/Principles/20241009T021430.md",
+    "1 To Process/Actionables/Principles/20241009T021510.md",
+    "1 To Process/Actionables/Principles/20241009T022040.md",
+    "1 To Process/Actionables/Principles/20241009T022054.md",
+    "1 To Process/Actionables/Principles/20241009T022221.md",
+    "1 To Process/Actionables/Principles/20241009T022244.md",
+    "1 To Process/Actionables/Principles/20241009T022254.md",
+    "1 To Process/Actionables/Notes/20250718T015258.md",
+    "1 To Process/Actionables/Notes/20250611T154506.md",
+    "Untitled.base",
+    "1 To Process/Organisation/Emails",
+    "1 To Process/Organisation/Emails & Domains",
+    "1 To Process/Organisation/Time Management",
     "1 To Process/Personal/Reflections",
     "7",
     "1 To Process/Personal/Inspiration",
     "1 To Process/Actionables/Useful",
     "1 To Process/Medias/Games",
-    "1 To Process/Fields/Geography",
-    "1 To Process/Actionables/Lessons",
-    "1 To Process/Fields/Architecture",
-    "1 To Process/Fields/History",
-    "1 To Process/Medias/Comedy"
+    "1 To Process/Fields/Geography"
   ]
 }
