@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 To Process/Organisation/Physical Environment/20250208T044339.md",
+                "file": "3 Processed/Note-Taking/20250812T130212.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250208T044339"
+              "title": "20250812T130212"
             }
           }
         ]
@@ -221,34 +221,36 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4dbe633afc2c09f8",
+  "active": "be05dad22e21850b",
   "lastOpenFiles": [
-    "1 To Process/Organisation/Physical Environment/20250208T044344.md",
-    "1 To Process/Organisation/Physical Environment/20241221T223943.md",
-    "1 To Process/Organisation/Physical Environment/20241221T223949.md",
-    "1 To Process/Organisation/Physical Environment/20241221T223936.md",
-    "1 To Process/Organisation/Physical Environment/20241221T224010.md",
-    "1 To Process/Organisation/Physical Environment/20241221T223928.md",
-    "1 To Process/External/Mannheim/20250308T230745.md",
-    "1 To Process/Actionables/Directives/20250201T022926.md",
-    "1 To Process/Actionables/Ideas/20250622T145332.md",
-    "1 To Process/Actionables/Ideas/20250522T165919.md",
-    "1 To Process/Actionables/Ideas/20250310T005541.md",
-    "1 To Process/Actionables/Ideas/20250130T220646.md",
-    "1 To Process/Actionables/Ideas/20250127T145430.md",
-    "1 To Process/Actionables/Ideas/20241106T202521.md",
-    "1 To Process/Actionables/Ideas/2024-09-25-19-03-54.md",
-    "1 To Process/Actionables/Principles/20240324T110702.md",
-    "1 To Process/Actionables/Principles/20240402T211814.md",
-    "1 To Process/Actionables/Principles/20241009T021430.md",
-    "1 To Process/Actionables/Principles/20241009T021510.md",
-    "1 To Process/Actionables/Principles/20241009T022040.md",
-    "1 To Process/Actionables/Principles/20241009T022054.md",
-    "1 To Process/Actionables/Principles/20241009T022221.md",
-    "1 To Process/Actionables/Principles/20241009T022244.md",
-    "1 To Process/Actionables/Principles/20241009T022254.md",
-    "1 To Process/Actionables/Notes/20250718T015258.md",
-    "1 To Process/Actionables/Notes/20250611T154506.md",
+    "6 Scheduled for Deletion/20250812T130212.md",
+    "3 Processed/Note-Taking/20250812T130212.md",
+    "3 Processed/Note-Taking/20250812T130321.md",
+    "3 Processed/Note-Taking/20250812T130928.md",
+    "3 Processed/Note-Taking/20250812T133515.md",
+    "3 Processed/Note-Taking/20250812T134842.md",
+    "3 Processed/Note-Taking/20250812T134855.md",
+    "3 Processed/Note-Taking/20250812T143959.md",
+    "3 Processed/Note-Taking/20250814T163517.md",
+    "3 Processed/Note-Taking/20250814T164844.md",
+    "3 Processed/Note-Taking/20250814T164556.md",
+    "3 Processed/Note-Taking/20250814T154846.md",
+    "3 Processed/Note-Taking/20250812T135826.md",
+    "3 Processed/Note-Taking/20250814T164401.md",
+    "3 Processed/Note-Taking/20250814T165045.md",
+    "3 Processed/Note-Taking/20250814T175448.md",
+    "3 Processed/Note-Taking/20250814T183753.md",
+    "3 Processed/Note-Taking/20250814T184255.md",
+    "3 Processed/Note-Taking/20250814T184936.md",
+    "6 Scheduled for Deletion/20250814T184936.md",
+    "6 Scheduled for Deletion/20250814T165045.md",
+    "6 Scheduled for Deletion/20250814T183753.md",
+    "6 Scheduled for Deletion/20250814T175448.md",
+    "6 Scheduled for Deletion/6 Scheduled for Deletion.md",
+    "6 Scheduled for Deletion/20250708T071813.md",
+    "6 Scheduled for Deletion/20250814T163517.md",
+    "m6",
+    "66",
     "Untitled.base",
     "1 To Process/Organisation/Emails",
     "1 To Process/Organisation/Emails & Domains",
@@ -256,8 +258,6 @@
     "1 To Process/Personal/Reflections",
     "7",
     "1 To Process/Personal/Inspiration",
-    "1 To Process/Actionables/Useful",
-    "1 To Process/Medias/Games",
-    "1 To Process/Fields/Geography"
+    "1 To Process/Actionables/Useful"
   ]
 }
